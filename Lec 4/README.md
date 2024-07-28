@@ -1,8 +1,4 @@
-## Namaste React Course by Akshay Saini
-
-# Episode 04 - Talk is Cheap, show me the code!
-
-## Coding Assignment:
+## Do these As Homework
 
 - Build a `Food Ordering App`
   - Think of a `cool name` for your app
@@ -17,4 +13,4 @@
       - `Render` your cards with dynamic data of restaurants
       - Use `Array.map` to render all the restaurants
 
-## [😋 Food App Basic Layout 😍](https://food-app-basic-layout.netlify.app/)
+
